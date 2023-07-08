@@ -1,6 +1,3 @@
-## Group Member Names: 
-Gurdeep Barring
-
 ## Compiling: 
 * In order to compile pro.py, you mujst go in your respective RPI and you must do the following
 
